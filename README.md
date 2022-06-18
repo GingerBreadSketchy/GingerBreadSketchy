@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)]
+[![MasterHead](https://telegra.ph/file/dd576dd71ece346b0bbb9.png)]
 <h1 align="center">Hi 👋, I'm GingerBreadSketchy</h1>
 <h3 align="center">A Beginner Creative Developer</h3>
 <img align="right" alt="Coding" width="600" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
