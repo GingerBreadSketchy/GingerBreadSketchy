@@ -1,4 +1,4 @@
-[![MasterHead](https://telegra.ph/file/23c39ba0915350765cc70.png)]
+[![MasterHead](https://telegra.ph/file/97ad903ba5a233f75a751.jpg)]
 <h1 align="center">Hi 👋, I'm GingerBreadSketchy</h1>
 <h3 align="center">A Beginner Creative Developer</h3>
 <img align="right" alt="Coding" width="600" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
