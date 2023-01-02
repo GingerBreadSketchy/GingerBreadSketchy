@@ -9,17 +9,17 @@
 
 - 🔭 I’m currently working on **Whatsapp Bots**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Nodejs & python**
 
 - 👯 I’m looking to collaborate on **Good ideas**
 
 - 🤝 I’m looking for help with **Node js**
 
-- 👨‍💻 All of my projects are available at [gingersketchy.netlify.app](gingersketchy.netlify.app)
+- 👨‍💻 All of my projects are available on this git
 
 - 💬 Ask me about **VB**
 
-- 📫 How to reach me **dennovinci@gmail.com**
+- 📫 How to reach me **gingersketchy@gmail.com**
 
 - ⚡ Fun fact **Watching & Relaxing**
 
