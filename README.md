@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gingerbreadsketchy&label=Profile%20views&color=0e75b6&style=flat" alt="gingerbreadsketchy" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@sketchybread" target="blank"><img src="https://img.shields.io/twitter/follow/SketchyBread?logo=twitter&style=for-the-badge" alt="@SketchyBread" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ginger_sketchy" target="blank"><img src="https://img.shields.io/twitter/follow/SketchyBread?logo=twitter&style=for-the-badge" alt="@ginger_sketchy" /></a> </p>
 
 - 🔭 I’m currently working on **Whatsapp Bots**
 
